@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APIConnectApp</string>
+    <string name="dog_image_description">Random dog image fetched from Dog CEO API</string>
+    <string name="gallery_title">🐕 Random Dog Gallery</string>
+    <string name="gallery_subtitle">Discover adorable dogs with every click</string>
+    <string name="fetch_button_text">Get New Dog</string>
+    <string name="favorite_button_description">Add to favorites</string>
+</resources>
