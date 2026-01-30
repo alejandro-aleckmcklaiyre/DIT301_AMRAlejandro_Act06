@@ -8,7 +8,7 @@ A modern Android application that fetches random dog images from the Dog CEO API
 
 ### Which API did you choose and why?
 
-I chose the Dog CEO API because it's free, doesn't require authentication, and returns simple JSON responses that are perfect for learning. Plus, who doesn't love looking at cute dogs? The API is reliable and fast, which made development smooth, and the visual nature of the content makes the app fun and engaging to use.
+I chose the Dog CEO API because it's free, doesn't require authentication, and returns simple JSON responses that are perfect for learning. Plus, I do love dogs and havee one. The API is reliable and fast, which made development smooth, and the visual nature of the content makes the app fun and engaging to use.
 
 ### How did you implement data fetching and JSON parsing?
 
